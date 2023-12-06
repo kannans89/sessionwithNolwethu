@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\bin\Debug\net6.0\ManIneheritanceApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\bin\Debug\net6.0\ManIneheritanceApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\bin\Debug\net6.0\ManIneheritanceApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\bin\Debug\net6.0\ManIneheritanceApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\bin\Debug\net6.0\ManIneheritanceApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\obj\Debug\net6.0\ManIneheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\obj\Debug\net6.0\ManIneheritanceApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\obj\Debug\net6.0\ManIneheritanceApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\obj\Debug\net6.0\ManIneheritanceApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\obj\Debug\net6.0\ManIneheritanceApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\obj\Debug\net6.0\refint\ManIneheritanceApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\obj\Debug\net6.0\ManIneheritanceApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\obj\Debug\net6.0\ManIneheritanceApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\ManIneheritanceApp\ManIneheritanceApp\obj\Debug\net6.0\ref\ManIneheritanceApp.dll

@@ -1,0 +1,8 @@
+1>What is the Common Language Runtime (CLR) responsible for in the .NET framework?
+
+a. Code compilation
+b. Memory management
+c. Garbage collection
+d. All of the above
+
+Answer: d. All of the above

@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\bin\Debug\net6.0\SimpleInterfaceApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\bin\Debug\net6.0\SimpleInterfaceApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\bin\Debug\net6.0\SimpleInterfaceApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\bin\Debug\net6.0\SimpleInterfaceApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\bin\Debug\net6.0\SimpleInterfaceApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\obj\Debug\net6.0\SimpleInterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\obj\Debug\net6.0\SimpleInterfaceApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\obj\Debug\net6.0\SimpleInterfaceApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\obj\Debug\net6.0\SimpleInterfaceApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\obj\Debug\net6.0\SimpleInterfaceApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\obj\Debug\net6.0\refint\SimpleInterfaceApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\obj\Debug\net6.0\SimpleInterfaceApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\obj\Debug\net6.0\SimpleInterfaceApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\SimpleInterfaceApp\SimpleInterfaceApp\obj\Debug\net6.0\ref\SimpleInterfaceApp.dll

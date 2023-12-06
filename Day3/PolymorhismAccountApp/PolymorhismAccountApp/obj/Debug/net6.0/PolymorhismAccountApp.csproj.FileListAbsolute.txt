@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\bin\Debug\net6.0\PolymorhismAccountApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\bin\Debug\net6.0\PolymorhismAccountApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\bin\Debug\net6.0\PolymorhismAccountApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\bin\Debug\net6.0\PolymorhismAccountApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\bin\Debug\net6.0\PolymorhismAccountApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\obj\Debug\net6.0\PolymorhismAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\obj\Debug\net6.0\PolymorhismAccountApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\obj\Debug\net6.0\PolymorhismAccountApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\obj\Debug\net6.0\PolymorhismAccountApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\obj\Debug\net6.0\PolymorhismAccountApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\obj\Debug\net6.0\refint\PolymorhismAccountApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\obj\Debug\net6.0\PolymorhismAccountApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\obj\Debug\net6.0\PolymorhismAccountApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PolymorhismAccountApp\PolymorhismAccountApp\obj\Debug\net6.0\ref\PolymorhismAccountApp.dll

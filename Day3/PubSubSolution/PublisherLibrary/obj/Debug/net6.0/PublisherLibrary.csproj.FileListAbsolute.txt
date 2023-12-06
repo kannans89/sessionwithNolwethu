@@ -1,0 +1,11 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\bin\Debug\net6.0\PublisherLibrary.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\bin\Debug\net6.0\PublisherLibrary.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\bin\Debug\net6.0\PublisherLibrary.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\obj\Debug\net6.0\PublisherLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\obj\Debug\net6.0\PublisherLibrary.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\obj\Debug\net6.0\PublisherLibrary.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\obj\Debug\net6.0\PublisherLibrary.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\obj\Debug\net6.0\PublisherLibrary.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\obj\Debug\net6.0\refint\PublisherLibrary.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\obj\Debug\net6.0\PublisherLibrary.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\obj\Debug\net6.0\ref\PublisherLibrary.dll

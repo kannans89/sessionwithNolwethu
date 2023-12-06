@@ -1,0 +1,76 @@
+1> What is encapsulation in C#?
+
+A) Bundling data and methods that operate on the data into a single unit
+B) Hiding the implementation details of a class
+C) Allowing a class to inherit from multiple classes
+D) Creating an instance of a class
+Answer: A) Bundling data and methods that operate on the data into a single unit
+
+
+
+Inheritance:
+Question: What is inheritance in C#?
+
+A) The process of creating a new class from an existing class
+B) Hiding the internal details of a class
+C) Implementing multiple interfaces in a class
+D) Creating an instance of a class
+Answer: A) The process of creating a new class from an existing class
+
+Question: Which keyword is used to implement inheritance in C#?
+
+A) extends
+B) inherits
+C) using
+D) None of above
+
+Answer: D) None of above
+
+Polymorphism:
+Question: What is polymorphism in C#?
+
+A) Having multiple constructors in a class
+B) Allowing a class to inherit from multiple classes
+C) The ability of a single function to work in different ways based on the context
+D) Declaring multiple variables with the same name
+Answer: C) The ability of a single function to work in different ways based on the context
+
+
+Interfaces:
+Question: What is an interface in C#?
+
+A) A class that cannot be instantiated
+B) A contract that defines a set of methods and properties
+C) A type of exception
+D) A way to encapsulate data and methods
+Answer: B) A contract that defines a set of methods and properties
+
+Question: Can a class implement multiple interfaces in C#?
+
+A) No, C# does not support multiple interfaces
+B) Yes, a class can implement multiple interfaces
+C) Interfaces cannot be implemented in C#
+D) Only abstract classes can implement interfaces
+Answer: B) Yes, a class can implement multiple interfaces
+
+Custom Exceptions:
+Question: Why would you create a custom exception in C#?
+
+
+Question: Which class is the base class for all custom exceptions in C#?
+
+A) ApplicationException
+B) Exception
+C) CustomException
+D) SystemException
+Answer: B) Exception
+
+Question: Which class is the base class for all classes C#?
+
+A) Mscorlib
+B) System
+C) String
+D) Object
+Answer: D)object
+
+

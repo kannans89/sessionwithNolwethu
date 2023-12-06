@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\bin\Debug\net6.0\RectanglePropertiesApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\bin\Debug\net6.0\RectanglePropertiesApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\bin\Debug\net6.0\RectanglePropertiesApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\bin\Debug\net6.0\RectanglePropertiesApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\bin\Debug\net6.0\RectanglePropertiesApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\net6.0\RectanglePropertiesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\net6.0\RectanglePropertiesApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\net6.0\RectanglePropertiesApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\net6.0\RectanglePropertiesApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\net6.0\RectanglePropertiesApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\net6.0\refint\RectanglePropertiesApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\net6.0\RectanglePropertiesApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\net6.0\RectanglePropertiesApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day2\RectanglePropertiesApp\RectanglePropertiesApp\obj\Debug\net6.0\ref\RectanglePropertiesApp.dll

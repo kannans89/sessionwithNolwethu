@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SubscriberApp/1.0.0": {
+        "dependencies": {
+          "PublisherLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SubscriberApp.dll": {}
+        }
+      },
+      "PublisherLibrary/1.0.0": {
+        "runtime": {
+          "PublisherLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SubscriberApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PublisherLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

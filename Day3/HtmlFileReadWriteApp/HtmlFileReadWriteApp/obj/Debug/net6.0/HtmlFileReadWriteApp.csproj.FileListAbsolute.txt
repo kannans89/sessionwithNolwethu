@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\bin\Debug\net6.0\HtmlFileReadWriteApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\bin\Debug\net6.0\HtmlFileReadWriteApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\bin\Debug\net6.0\HtmlFileReadWriteApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\bin\Debug\net6.0\HtmlFileReadWriteApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\bin\Debug\net6.0\HtmlFileReadWriteApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\obj\Debug\net6.0\HtmlFileReadWriteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\obj\Debug\net6.0\HtmlFileReadWriteApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\obj\Debug\net6.0\HtmlFileReadWriteApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\obj\Debug\net6.0\HtmlFileReadWriteApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\obj\Debug\net6.0\HtmlFileReadWriteApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\obj\Debug\net6.0\refint\HtmlFileReadWriteApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\obj\Debug\net6.0\HtmlFileReadWriteApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\obj\Debug\net6.0\HtmlFileReadWriteApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\HtmlFileReadWriteApp\HtmlFileReadWriteApp\obj\Debug\net6.0\ref\HtmlFileReadWriteApp.dll

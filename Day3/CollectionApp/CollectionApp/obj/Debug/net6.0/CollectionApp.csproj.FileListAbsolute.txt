@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\bin\Debug\net6.0\CollectionApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\bin\Debug\net6.0\CollectionApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\bin\Debug\net6.0\CollectionApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\bin\Debug\net6.0\CollectionApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\bin\Debug\net6.0\CollectionApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\obj\Debug\net6.0\CollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\obj\Debug\net6.0\CollectionApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\obj\Debug\net6.0\CollectionApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\obj\Debug\net6.0\CollectionApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\obj\Debug\net6.0\CollectionApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\obj\Debug\net6.0\refint\CollectionApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\obj\Debug\net6.0\CollectionApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\obj\Debug\net6.0\CollectionApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\CollectionApp\CollectionApp\obj\Debug\net6.0\ref\CollectionApp.dll

@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\obj\Debug\net6.0\refint\WelcomeApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\WelcomeApp\WelcomeApp\obj\Debug\net6.0\ref\WelcomeApp.dll

@@ -1,0 +1,116 @@
+Question 1:
+Which of the following is a generic collection type in C#?
+
+a) ArrayList
+b) List
+c) Hashtable
+d) Queue
+
+Answer: b) List
+
+2. Generics:
+
+Question 2:
+What is the primary advantage of using generics in C#?
+
+a) Improved performance
+b) Compile time safety
+c) Simplicity of syntax
+d) Better exception handling
+
+Answer: b) Compile time safety
+
+3. Interface:
+
+Question 3:
+In C#, can a class implement multiple interfaces?
+
+a) No, C# does not support multiple interfaces
+b) Yes, a class can implement multiple interfaces
+c) Only if the interfaces have the same methods
+d) Only if the interfaces have different names
+
+Answer: b) Yes, a class can implement multiple interfaces
+
+4. Serialization, Deserialization:
+
+Question 4:
+Which attribute is used to control the serialization of a class in C#?
+
+a) [Serializable]
+b) [Serialize]
+c) [SerializeClass]
+d) [SerializableClass]
+
+Answer: a) [Serializable]
+
+5. Delegates:
+
+Question 5:
+What is the purpose of delegates in C#?
+
+a) To define classes
+b) To handle exceptions
+c) To create generic types
+d) To provide a type-safe function pointer
+
+Answer: d) To provide a type-safe function pointer
+
+6. Collections:
+
+Question 6:
+Which collection type in C# allows duplicate elements?
+
+a) HashSet
+b) List
+c) Dictionary
+
+Answer: b) List
+
+7. Generics:
+
+Question 7:
+What is the syntax to declare a generic class in C#?
+
+a) class MyGenericClass<T>
+b) class MyGenericClass{}
+c) generic class MyGenericClass<T>{}
+d) class MyGenericClass<T>:Generic{}
+
+Answer: a) class MyGenericClass<T>
+
+8. Interface:
+
+Question 8:
+In an interface, all methods are by default:
+
+a) Private
+b) Public
+c) Protected
+d) Internal
+
+Answer: b) Public
+
+9. Serialization, Deserialization:
+
+Question 9:
+Which interface is used for custom serialization and deserialization in C#?
+
+a) IFormattable
+b) ISerializable
+c) IFormatter
+d) IDataContractSerializer
+
+Answer: b) ISerializable
+
+10. Delegates:
+
+Question 10:
+What is multicast delegate in C#?
+
+a) A delegate with multiple parameters
+b) A delegate that can be invoked multiple times
+c) A delegate with a return type
+d) A delegate with no parameters
+
+Answer: b) A delegate that can be invoked multiple times

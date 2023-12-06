@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\bin\Debug\net6.0\StringImmutabiltyApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\bin\Debug\net6.0\StringImmutabiltyApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\bin\Debug\net6.0\StringImmutabiltyApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\bin\Debug\net6.0\StringImmutabiltyApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\bin\Debug\net6.0\StringImmutabiltyApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\obj\Debug\net6.0\StringImmutabiltyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\obj\Debug\net6.0\StringImmutabiltyApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\obj\Debug\net6.0\StringImmutabiltyApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\obj\Debug\net6.0\StringImmutabiltyApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\obj\Debug\net6.0\StringImmutabiltyApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\obj\Debug\net6.0\refint\StringImmutabiltyApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\obj\Debug\net6.0\StringImmutabiltyApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\obj\Debug\net6.0\StringImmutabiltyApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\StringImmutabiltyApp\StringImmutabiltyApp\obj\Debug\net6.0\ref\StringImmutabiltyApp.dll

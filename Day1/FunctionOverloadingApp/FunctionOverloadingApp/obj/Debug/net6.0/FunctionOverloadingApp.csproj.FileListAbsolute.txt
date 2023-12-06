@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\bin\Debug\net6.0\FunctionOverloadingApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\bin\Debug\net6.0\FunctionOverloadingApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\bin\Debug\net6.0\FunctionOverloadingApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\bin\Debug\net6.0\FunctionOverloadingApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\bin\Debug\net6.0\FunctionOverloadingApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\obj\Debug\net6.0\FunctionOverloadingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\obj\Debug\net6.0\FunctionOverloadingApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\obj\Debug\net6.0\FunctionOverloadingApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\obj\Debug\net6.0\FunctionOverloadingApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\obj\Debug\net6.0\FunctionOverloadingApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\obj\Debug\net6.0\refint\FunctionOverloadingApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\obj\Debug\net6.0\FunctionOverloadingApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\obj\Debug\net6.0\FunctionOverloadingApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day1\FunctionOverloadingApp\FunctionOverloadingApp\obj\Debug\net6.0\ref\FunctionOverloadingApp.dll
