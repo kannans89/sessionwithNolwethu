@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+se0NrwDwh9S5bFC+KkMr34cdR6eNpQfidO8jt6iYb4zzXFg4gHRH0vZ0pcBeP21+mSFoA6In6Yu6WBtSwdLg==",
+  "success": true,
+  "projectFilePath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day4\\ThreadWpfApp\\ThreadWpfApp\\ThreadWpfApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

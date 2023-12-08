@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VjkDn/UF9atV7TvykPp93kbLzd76Kqcr9dmUEtm17M8cG0gC5Jj3KKHvMyBleb4Y4m2vbK3j6Y35aVP/joR3Kg==",
+  "success": true,
+  "projectFilePath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day4\\ReflectionAndAttributesApp\\ReflectionAndAttributesApp\\ReflectionAndAttributesApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

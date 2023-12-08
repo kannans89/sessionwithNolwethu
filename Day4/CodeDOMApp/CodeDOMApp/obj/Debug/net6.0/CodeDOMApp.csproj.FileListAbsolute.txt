@@ -1,0 +1,17 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\bin\Debug\net6.0\CodeDOMApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\bin\Debug\net6.0\CodeDOMApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\bin\Debug\net6.0\CodeDOMApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\bin\Debug\net6.0\CodeDOMApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\bin\Debug\net6.0\CodeDOMApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\obj\Debug\net6.0\CodeDOMApp.csproj.AssemblyReference.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\obj\Debug\net6.0\CodeDOMApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\obj\Debug\net6.0\CodeDOMApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\obj\Debug\net6.0\CodeDOMApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\obj\Debug\net6.0\CodeDOMApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\obj\Debug\net6.0\CodeDOMApp.csproj.CopyComplete
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\obj\Debug\net6.0\CodeDOMApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\obj\Debug\net6.0\refint\CodeDOMApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\obj\Debug\net6.0\CodeDOMApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\obj\Debug\net6.0\CodeDOMApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\CodeDOMApp\CodeDOMApp\obj\Debug\net6.0\ref\CodeDOMApp.dll

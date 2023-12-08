@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ylpfv/i4DEy8ttoRzr/Y5Sjs9/7DKdAjVd5zP1Iwzm4J2Tt8nyIUMO2FR/cN0jTe76Y3aubKgnMVnRPjwAOUA==",
+  "success": true,
+  "projectFilePath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day4\\WordDocumentInterOperability\\WordDocumentInterOperability\\WordDocumentInterOperability.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1004\\microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

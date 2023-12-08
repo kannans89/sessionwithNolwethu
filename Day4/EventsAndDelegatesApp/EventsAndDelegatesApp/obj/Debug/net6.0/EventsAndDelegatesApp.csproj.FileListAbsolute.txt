@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\bin\Debug\net6.0\EventsAndDelegatesApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\bin\Debug\net6.0\EventsAndDelegatesApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\bin\Debug\net6.0\EventsAndDelegatesApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\bin\Debug\net6.0\EventsAndDelegatesApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\bin\Debug\net6.0\EventsAndDelegatesApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\obj\Debug\net6.0\EventsAndDelegatesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\obj\Debug\net6.0\EventsAndDelegatesApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\obj\Debug\net6.0\EventsAndDelegatesApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\obj\Debug\net6.0\EventsAndDelegatesApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\obj\Debug\net6.0\EventsAndDelegatesApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\obj\Debug\net6.0\refint\EventsAndDelegatesApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\obj\Debug\net6.0\EventsAndDelegatesApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\obj\Debug\net6.0\EventsAndDelegatesApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\EventsAndDelegatesApp\EventsAndDelegatesApp\obj\Debug\net6.0\ref\EventsAndDelegatesApp.dll

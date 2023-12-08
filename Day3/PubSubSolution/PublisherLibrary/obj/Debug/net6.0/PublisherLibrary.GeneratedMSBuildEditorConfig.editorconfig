@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PublisherLibrary
-build_property.ProjectDir = C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day3\PubSubSolution\PublisherLibrary\
+build_property.ProjectDir = C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\sessionwithNolwethu\Day3\PubSubSolution\PublisherLibrary\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

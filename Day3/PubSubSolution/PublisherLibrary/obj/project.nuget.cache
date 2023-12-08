@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1cQvQo5IJbcWElTPLMCe/Jx01nhzD7vhHblLkbVcR/ibkNa4FtVhxmj7MMd0l4JTQ0nsQ9hTVQqdlm5Q84lxQg==",
+  "dgSpecHash": "QX7H82hnzlsICU4jN8GOzD4VI1SBtGv1earNeIOrMQOH7mRN0/OoPx+NN4ly/QmZJnPIeKzBbpCJtHVbTs1B+A==",
   "success": true,
-  "projectFilePath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "73ZqTLll9qrkTZLhI9g+F9DjyuIa4N5VhvZGMiZYZO4GlSjN6nzdlv5vrpXoA2kxEt2ZMhT1gcaEV/jjOZXCyQ==",
+  "dgSpecHash": "VJAEw1uVuV9OwnGkO8tecJmBcKmvRB4B8pmPYqWVBbjxAIY68LQUbqaRWYZLwN5Xg7qQTotGOs5hOHIPYa3TvA==",
   "success": true,
-  "projectFilePath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\SubscriberApp\\SubscriberApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\SubscriberApp\\SubscriberApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

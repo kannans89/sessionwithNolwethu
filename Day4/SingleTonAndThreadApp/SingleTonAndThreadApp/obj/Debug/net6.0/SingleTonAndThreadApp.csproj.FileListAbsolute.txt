@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\bin\Debug\net6.0\SingleTonAndThreadApp.exe
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\bin\Debug\net6.0\SingleTonAndThreadApp.deps.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\bin\Debug\net6.0\SingleTonAndThreadApp.runtimeconfig.json
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\bin\Debug\net6.0\SingleTonAndThreadApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\bin\Debug\net6.0\SingleTonAndThreadApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\obj\Debug\net6.0\SingleTonAndThreadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\obj\Debug\net6.0\SingleTonAndThreadApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\obj\Debug\net6.0\SingleTonAndThreadApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\obj\Debug\net6.0\SingleTonAndThreadApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\obj\Debug\net6.0\SingleTonAndThreadApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\obj\Debug\net6.0\refint\SingleTonAndThreadApp.dll
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\obj\Debug\net6.0\SingleTonAndThreadApp.pdb
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\obj\Debug\net6.0\SingleTonAndThreadApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\SessionWithNolwethuMtwesi\Day4\SingleTonAndThreadApp\SingleTonAndThreadApp\obj\Debug\net6.0\ref\SingleTonAndThreadApp.dll

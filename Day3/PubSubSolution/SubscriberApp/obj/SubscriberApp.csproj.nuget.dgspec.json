@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\SubscriberApp\\SubscriberApp.csproj": {}
+    "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\SubscriberApp\\SubscriberApp.csproj": {}
   },
   "projects": {
-    "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj": {
+    "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj",
+        "projectUniqueName": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj",
         "projectName": "PublisherLibrary",
-        "projectPath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj",
+        "projectPath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj",
         "packagesPath": "C:\\Users\\kanna\\.nuget\\packages\\",
-        "outputPath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\PublisherLibrary\\obj\\",
+        "outputPath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\PublisherLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -50,23 +53,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\SubscriberApp\\SubscriberApp.csproj": {
+    "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\SubscriberApp\\SubscriberApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\SubscriberApp\\SubscriberApp.csproj",
+        "projectUniqueName": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\SubscriberApp\\SubscriberApp.csproj",
         "projectName": "SubscriberApp",
-        "projectPath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\SubscriberApp\\SubscriberApp.csproj",
+        "projectPath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\SubscriberApp\\SubscriberApp.csproj",
         "packagesPath": "C:\\Users\\kanna\\.nuget\\packages\\",
-        "outputPath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\SubscriberApp\\obj\\",
+        "outputPath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\SubscriberApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +100,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj": {
-                "projectPath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj"
+              "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj": {
+                "projectPath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\sessionwithNolwethu\\Day3\\PubSubSolution\\PublisherLibrary\\PublisherLibrary.csproj"
               }
             }
           }
@@ -93,6 +110,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -109,12 +129,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

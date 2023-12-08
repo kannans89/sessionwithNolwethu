@@ -1,0 +1,22 @@
+﻿<Window x:Class="DisplosablePatternApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DisplosablePatternApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Orientation="Vertical"  >
+        <Button Content="clone#01" 
+                Background="Pink"
+                 Click="btn1_click"
+                Width="100" Height="50"/>
+        
+        <Button Width="100" Height="50"
+                Click="btn2_click" Content="clone#02"/>
+        <Button Width="100" Height="50" 
+                Click="btn3_click"
+                Content="GarbageCollector"/>
+
+    </StackPanel>
+</Window>

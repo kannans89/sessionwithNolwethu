@@ -1,0 +1,100 @@
+
+1> What is an event in C#?
+
+a) A variable
+b) A method
+c) A special type of delegate
+d) An exception
+
+Answer: c) A special type of delegate
+
+Entity Framework:
+Question: Which of the following is not a 
+valid approach to define a model in Entity Framework?
+
+a) Code-First
+b) Database-First
+c) Model-First
+d) View-First
+
+Answer: d) View-First
+
+Threads:
+Question: What is a thread in the context of C#?
+
+a) A lightweight process
+b) A GUI component
+c) A database connection
+d) An event handler
+
+Answer: a) A lightweight process
+
+Task:
+Question: What is the purpose of the Task class in C#?
+
+a) To represent a parallel execution of a set of statements
+b) To define a user interface in WPF
+c) To handle database operations
+d) To manage dynamic types
+
+Answer: a) To represent a parallel execution of a 
+set of statements
+
+async/await:
+Question: What is the main benefit of using async/await in C#?
+
+a) It allows defining dynamic types
+b) It simplifies asynchronous programming
+c) It is used for reflection purposes
+d) It handles UI events
+
+Answer: b) It simplifies asynchronous programming
+
+Reflection:
+Question: What is reflection in C#?
+
+a) A technique to handle database operations
+b) A way to dynamically inspect and interact with types
+c) A design pattern for user interfaces
+d) A method for defining events
+
+Answer: b) A way to dynamically inspect and interact with types
+
+Dynamic keyword:
+Question: In C#, what does the dynamic keyword allow?
+
+a) Defining events
+b) Creating thread-safe code
+c) Working with unknown or dynamic types at runtime
+d) Handling exceptions
+
+Answer: c) Working with unknown or dynamic types at runtime
+
+WPF Basics:
+Question: What does WPF stand for?
+
+a) Windows Presentation Foundation
+b) Windows Programming Framework
+c) Windows Processing Facility
+d) Windows Print Format
+
+Answer: a) Windows Presentation Foundation
+
+Question: Which XAML attribute is used to
+associate an event handler with a control in WPF?
+
+a) onclick
+b) event
+c) command
+d) Click
+
+Answer: d) Click
+
+Question: What is the primary role of the XAML file in WPF?
+
+a) Defining database connections
+b) Defining the user interface structure
+c) Handling asynchronous operations
+d) Executing background tasks
+
+Answer: b) Defining the user interface structure

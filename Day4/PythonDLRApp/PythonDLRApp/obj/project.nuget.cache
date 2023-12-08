@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ibQ78O0QDfN4MS6xLxmP0yRc232djR4x5zC0xjR6y6nkQvLmGAzLaRICBT6L4CRwt7sHEiepDji55dY5Q0ompw==",
+  "success": true,
+  "projectFilePath": "C:\\LiveSessionKoenig\\SessionWithNolwethuMtwesi\\Day4\\PythonDLRApp\\PythonDLRApp\\PythonDLRApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanna\\.nuget\\packages\\dynamiclanguageruntime\\1.3.4\\dynamiclanguageruntime.1.3.4.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\ironpython\\3.4.1\\ironpython.3.4.1.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\mono.unix\\7.1.0-final.1.21458.1\\mono.unix.7.1.0-final.1.21458.1.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
